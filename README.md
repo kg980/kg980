@@ -1,13 +1,16 @@
 ![banner](https://github.com/kg980/kg980/assets/60136682/0a43bced-c6f2-436d-9d9a-3c8e453947dc)
 ## About me! 👋
+I'm a Computer Science graduate currently working in endpoint infrastructure
+I have experience in Java, React and Python, but currently use PowerShell in my role
+Here are my projects to boost my Engineering skills with an aim to progress into engineering
+
 ### Actively ongoing...
-- 🔭 I’m currently working on Infrastructure Automation tasks
-- 🌱 Learning how to use Jenkins and Docker to improve the above
-- 🌱 I’m currently learning Python for Data Science with HyperionDev!
+- 🔭 I’m currently learning Python for Data Science with HyperionDev!
+- 🌱 Learning how to use Jenkins and Docker for Infrastructure Automation
 
 ### Additional work...
-- 🔭 WIP: Web projects using React
-- ⚡ Fun fact: I also enjoy Graphic Design :^)
+- 🔭 WIP - Web project using React and Firebase!
+- ⚡ Fun fact: I also enjoy Graphic Design for electronic products :^)
 
 ![banner](https://github.com/kg980/kg980/assets/60136682/b9510810-b5dd-4489-a75f-e258d350e30e)
 
