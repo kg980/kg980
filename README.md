@@ -2,7 +2,8 @@
 ![banner](https://github.com/kg980/kg980/assets/60136682/ae68fa2c-3622-42b5-99d3-072a366803a5)
 ## About me! 👋
 I'm a Computer Science graduate currently working in endpoint infrastructure
-I have experience in Java, React and Python, but currently use PowerShell in my role
+I have experience in Java, React and Python, but currently I use PowerShell in my role.
+
 Here are my projects to boost my Engineering skills with an aim to progress into engineering
 
 ### Actively ongoing...
