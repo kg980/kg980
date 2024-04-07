@@ -1,9 +1,10 @@
 ![banner](https://github.com/kg980/kg980/assets/60136682/0a43bced-c6f2-436d-9d9a-3c8e453947dc)
 ### About me! 👋
-- 🔭 I’m currently working on Infrastructure Automation tasks in relation to Jenkins and Docker
-- 🔭 WIP: Web portfolio using React
-- 🌱 I’m currently learning Data Science / Software Development in Python
-- ⚡ Fun fact: I also enjoy Graphic Design!
+- 🔭 I’m currently working on Infrastructure Automation tasks
+- 🌱 Learning how to use Jenkins and Docker
+- 🔭 WIP: Web projects using React
+- 🌱 I’m currently learning Data Science / Software Development in Python with HyperionDev!
+- ⚡ Fun fact: I also enjoy Graphic Design :^)
 
 ![banner](https://github.com/kg980/kg980/assets/60136682/b9510810-b5dd-4489-a75f-e258d350e30e)
 
