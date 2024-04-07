@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Infrastructure Automation tasks
 - 🌱 Learning how to use Jenkins and Docker
 - 🔭 WIP: Web projects using React
-- 🌱 I’m currently learning Data Science / Software Development in Python with HyperionDev!
+- 🌱 I’m currently learning Python for Data Science with HyperionDev!
 - ⚡ Fun fact: I also enjoy Graphic Design :^)
 
 ![banner](https://github.com/kg980/kg980/assets/60136682/b9510810-b5dd-4489-a75f-e258d350e30e)
