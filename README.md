@@ -12,7 +12,7 @@ Here are my projects to boost my Engineering skills with an aim to progress into
 
 ### Additional work...
 - 🔭 WIP - Web project using React and Firebase!
-- ⚡ Fun fact: I also enjoy Graphic Design for electronic products :^)
+- ⚡ Fun fact: I also enjoy Graphic Design for electronic products
 
 ![banner](https://github.com/kg980/kg980/assets/60136682/8c2e8f38-7a03-4d73-91b4-b1d8213b4f1a)
 
