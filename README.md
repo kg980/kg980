@@ -4,6 +4,7 @@
 - 🔭 WIP: Web portfolio using React
 - 🌱 I’m currently learning Data Science / Software Development in Python
 - ⚡ Fun fact: I also enjoy Graphic Design!
+
 ![banner](https://github.com/kg980/kg980/assets/60136682/b9510810-b5dd-4489-a75f-e258d350e30e)
 
 <!--
