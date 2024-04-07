@@ -1,4 +1,5 @@
-![banner](https://github.com/kg980/kg980/assets/60136682/0a43bced-c6f2-436d-9d9a-3c8e453947dc)
+
+![banner](https://github.com/kg980/kg980/assets/60136682/ae68fa2c-3622-42b5-99d3-072a366803a5)
 ## About me! 👋
 I'm a Computer Science graduate currently working in endpoint infrastructure
 I have experience in Java, React and Python, but currently use PowerShell in my role
@@ -12,7 +13,8 @@ Here are my projects to boost my Engineering skills with an aim to progress into
 - 🔭 WIP - Web project using React and Firebase!
 - ⚡ Fun fact: I also enjoy Graphic Design for electronic products :^)
 
-![banner](https://github.com/kg980/kg980/assets/60136682/b9510810-b5dd-4489-a75f-e258d350e30e)
+![banner](https://github.com/kg980/kg980/assets/60136682/8c2e8f38-7a03-4d73-91b4-b1d8213b4f1a)
+
 
 <!--
 **kg980/kg980** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
