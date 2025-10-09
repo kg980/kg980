@@ -2,17 +2,17 @@
 ![banner](https://github.com/kg980/kg980/assets/60136682/ae68fa2c-3622-42b5-99d3-072a366803a5)
 ## About me! 👋
 I'm a Computer Science graduate currently working in Windows-based Corporate IT Infrastructure.
-University has granted me experience in Java, React, JS and Python. My current professional role is heavily based on PowerShell & Groovy (Java) for automation, as well as common infra-as-code languages such as yaml.
+My time at University was mostly spent with Java, React, JS and Python. My current professional role is heavily based on PowerShell & Groovy for automation, as well as common infra-as-code file types JSON, CSVs & Yaml.
 
 - ⚡ Fun fact: I also love dogs, roller skating & video games.
   
 ### Actively ongoing...
-- 🔭 My current creative outlet is solo game development, primarily using C# for my current projects in the Unity engine, with a focus on good programming design principals; writing extensible, re-usable code. It's important to lay good foundations for the rest of the project after all!
+- 🔭 My current passion project: solo game development! Primarily using C# with Unity engine & GDScript with Godot. This comes with some super fun challenges, balancing good programming design principals with scope creep and prototyping time constraints. Laying strong foundations with extensible, re-usable code which allows me to connect many small problems into one maintainable system. 
 - 🌱 Learning how to use Jenkins and Docker for Infrastructure Automation, dabbling in a bit of Kubernetes!
 
-### Past Projects!
-- 🌱 Python for Data Science with HyperionDev! Creating and analysing various Machine Learning models on large data sets with Pandas, Matplotlib and other popular ML Python libraries.
-- 🔭 WIP - Web project using React and Firebase for a Community Network service
+### Past Projects
+- 🌱 Python for Data Science with HyperionDev: creating and analysing various Machine Learning models on large data sets with Pandas, Matplotlib and other popular ML Python libraries.
+- 🔭 WIP - POC Web project using React and Firebase for a Community Network service
 
   
 
