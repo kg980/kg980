@@ -5,6 +5,7 @@ I'm a Computer Science graduate currently working in Windows-based Corporate IT 
 My time at University was mostly spent with Java, React, JS and Python. My current professional role is heavily based on PowerShell & Groovy for automation, as well as common infra-as-code file types JSON, CSVs & Yaml.
 
 - ⚡ Fun fact: I also love dogs, roller skating & video games.
+- Latest hobby: 3d modelling, rigging & animating models
   
 ### Actively ongoing...
 - 🔭 My current passion project: solo game development! Primarily using C# with Unity engine & GDScript with Godot. This comes with some super fun challenges, balancing good programming design principals with scope creep and prototyping time constraints. Laying strong foundations with extensible, re-usable code which allows me to connect many small problems into one maintainable system. 
