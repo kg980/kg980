@@ -8,7 +8,8 @@ My time at University was mostly spent with Java, React, JS and Python. My curre
 - Latest hobby: 3d modelling, rigging & animating models
   
 ### Actively ongoing...
-- 🔭 My current passion project: solo game development! Primarily using C# with Unity engine & GDScript with Godot. This comes with some super fun challenges, balancing good programming design principals with scope creep and prototyping time constraints. Laying strong foundations with extensible, re-usable code which allows me to connect many small problems into one maintainable system. 
+- 🔭 My current passion project: solo game development! Primarily using C# with Unity engine & GDScript with Godot. This comes with some super fun challenges, balancing good programming design principals with scope creep and prototyping time constraints. Laying strong foundations with extensible, re-usable code which allows me to connect many small problems into one maintainable system.
+- 🌱 SQL Data Warehouse project - Developing an ETL pipeline to ingest data from a source and transform it into business-ready views using SQL, SQL Server and SQL Management Studio
 - 🌱 Learning how to use Jenkins and Docker for Infrastructure Automation, dabbling in a bit of Kubernetes!
 
 ### Past Projects
