@@ -1,19 +1,19 @@
 
 ![banner](https://github.com/kg980/kg980/assets/60136682/ae68fa2c-3622-42b5-99d3-072a366803a5)
-## About me! 👋
-I'm a Computer Science graduate currently working in Windows-based Corporate IT Infrastructure.
-My time at University was mostly spent with Java, React, JS and Python. My current professional role is heavily based on PowerShell & Groovy for automation, as well as common infra-as-code file types JSON, CSVs & Yaml.
+## About me!
+I'm a indie dev hobbyist having started out in C# in Unity, however I've since moved to Godot. I have a love for all things 3d modelling, art, shaders and indie development. And dogs.
+My background is in Bsc Computer Science with coursework in with Java, React, JS and Python, and profesionally I grew into IT Infrastructure, with a taste for automation & Infra as Code!
 
-- ⚡ Fun fact: I also love dogs, roller skating & video games.
-- Latest hobby: 3d modelling, rigging & animating models
   
-### Actively ongoing...
-- 🔭 My current passion project: solo game development! Primarily using C# with Unity engine & GDScript with Godot. This comes with some super fun challenges, balancing good programming design principals with scope creep and prototyping time constraints. Laying strong foundations with extensible, re-usable code which allows me to connect many small problems into one maintainable system.
+### Recent Learnings...
+- 🌱 ASP.NET Core Entity Framework for backend API development in C#
+- 🌱 ASP.NET MVC Framework to create a website
+- 🌱 Testing with XUnit & FakeItEasy
 - 🌱 SQL Data Warehouse project - Developing an ETL pipeline to ingest data from a source and transform it into business-ready views using SQL, SQL Server and SQL Management Studio
-- 🌱 Learning how to use Jenkins and Docker for Infrastructure Automation, dabbling in a bit of Kubernetes!
+- 🌱 Dabbling in a bit of Kubernetes & Docker
 
-### Past Projects
-- 🌱 Python for Data Science with HyperionDev: creating and analysing various Machine Learning models on large data sets with Pandas, Matplotlib and other popular ML Python libraries.
+### Distant Learnings...
+- 🔭 Python for Data Science with HyperionDev: creating and analysing various Machine Learning models on large data sets with Pandas, Matplotlib and other popular ML Python libraries.
 - 🔭 WIP - POC Web project using React and Firebase for a Community Network service
 
   
